@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "JS Guild"
-  text: "JS Guild for collaboration"
+  name: "My Awesome Project"
+  text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
