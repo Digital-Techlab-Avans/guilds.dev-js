@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/js/:path*",
-        "destination": "https://guilds-js.vercel.app/:path*"
-      }
-    ]
-  }
